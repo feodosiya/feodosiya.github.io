@@ -1,2 +1,2 @@
 # feodosiya.github.io
-https://tilda.cc/page/?pageid=4682033&projectid=1086792
+http://project1086792.tilda.ws
